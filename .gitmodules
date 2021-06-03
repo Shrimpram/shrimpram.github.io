@@ -1,0 +1,15 @@
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "static/resume"]
+	path = static/resume
+	url = https://github.com/Shrimpram/resume.git
+[submodule "docs/resume"]
+	path = docs/resume
+	url = https://github.com/Shrimpram/resume.git
+[submodule "docs/pubkey"]
+	path = docs/pubkey
+	url = https://gist.github.com/9c75268e25eae09e2dcaac0373767c16.git
+[submodule "static/pubkey"]
+	path = static/pubkey
+	url = https://gist.github.com/9c75268e25eae09e2dcaac0373767c16.git
